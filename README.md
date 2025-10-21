@@ -1,5 +1,5 @@
 
-# 🌐 Nmap2HTML — Interactive Nmap Report Generator (Flask Web App)
+# 🌐 Nmap2HTML — Interactive Nmap Report Generator
 
 > Convert your Nmap XML or GNMAP scan results into a **beautiful, responsive HTML dashboard** — directly from your browser.
 
